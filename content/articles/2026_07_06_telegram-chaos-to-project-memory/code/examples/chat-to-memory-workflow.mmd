@@ -1,0 +1,11 @@
+flowchart LR
+    A["Telegram export<br/>result.json or result_toon.md"] --> B["Local preprocessing"]
+    B --> C["Normalized messages"]
+    B --> D["Conversation chunks"]
+    B --> E["Candidate knowledge items"]
+    E --> F["knowledge_dataset.json"]
+    B --> G["Redaction report"]
+    F --> H["notion-ready package"]
+    G --> H
+    H --> I["Human review"]
+    I --> J["Publish to Notion or keep local"]

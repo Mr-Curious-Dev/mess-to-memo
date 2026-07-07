@@ -1,0 +1,5 @@
+version: 1
+interface:
+  display_name: Mess-to-Memo
+  short_description: Convert Telegram project chats into a Notion-ready knowledge package.
+  default_prompt: Process Telegram or Toon project discussions, extract reusable knowledge, write a compact dataset, and generate Notion-ready documentation.

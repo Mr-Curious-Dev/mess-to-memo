@@ -1,0 +1,56 @@
+{
+  "researched_at": "2026-07-06T15:07:28Z",
+  "topic": "Mess-to-Memo at Maximus Studio",
+  "search_queries": [
+    "site:maximus.pro Maximus Studio about",
+    "Maximus Studio mobile web development",
+    "Mess-to-Memo repository workflow"
+  ],
+  "sources": [
+    {
+      "url": "https://maximus.pro/",
+      "title": "Maximus Studio",
+      "summary": "Company homepage describing Maximus Studio as a mobile and web development team with completed projects, team size, and technology stack.",
+      "usage": "Used to describe the studio and position the article as a product-building story.",
+      "accessed_at": "2026-07-06T15:07:28Z",
+      "type": "documentation",
+      "credibility": 5
+    },
+    {
+      "url": "https://maximus.pro/about",
+      "title": "About Maximus Studio",
+      "summary": "About page describing service range, years in business, and technical stack including Swift, Kotlin, Vue.js, Laravel, and Python.",
+      "usage": "Used to ground the studio profile and engineering context in current official company copy.",
+      "accessed_at": "2026-07-06T15:07:28Z",
+      "type": "documentation",
+      "credibility": 5
+    },
+    {
+      "url": "file:/Users/nikita/AndroidStudioProjects/telegram-knowledge-capture-repo-skill/README.md",
+      "title": "Mess-to-Memo README",
+      "summary": "Repository overview describing the chat-to-dataset-to-Notion-ready workflow, outputs, and install paths.",
+      "usage": "Primary reference for workflow description and reader-facing explanation of the tool.",
+      "accessed_at": "2026-07-06T15:07:28Z",
+      "type": "repository",
+      "credibility": 5
+    },
+    {
+      "url": "file:/Users/nikita/AndroidStudioProjects/telegram-knowledge-capture-repo-skill/docs/preprocessing-pipeline.md",
+      "title": "Mess-to-Memo Preprocessing Pipeline",
+      "summary": "Detailed explanation of preprocessing goals, supported inputs, intermediate outputs, redaction, and benchmark reduction numbers.",
+      "usage": "Used to explain why deterministic preprocessing matters before AI extraction.",
+      "accessed_at": "2026-07-06T15:07:28Z",
+      "type": "repository",
+      "credibility": 5
+    },
+    {
+      "url": "file:/Users/nikita/AndroidStudioProjects/telegram-knowledge-capture-repo-skill/skills/mess-to-memo/SKILL.md",
+      "title": "Mess-to-Memo Skill Definition",
+      "summary": "Installable skill workflow, scope, rules, default categories, and safety constraints.",
+      "usage": "Used to describe the Codex skill behavior and safety rules in the article.",
+      "accessed_at": "2026-07-06T15:07:28Z",
+      "type": "repository",
+      "credibility": 5
+    }
+  ]
+}

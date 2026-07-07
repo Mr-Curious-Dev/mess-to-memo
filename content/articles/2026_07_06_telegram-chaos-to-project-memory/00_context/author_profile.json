@@ -1,0 +1,73 @@
+{
+  "author": "maximus-studio",
+  "author_name": "Maximus Studio",
+  "tone": {
+    "formality": 4,
+    "opinionated": 7
+  },
+  "phrases": {
+    "signature": [
+      "The real win",
+      "In practice"
+    ],
+    "avoid": [
+      "game-changer",
+      "revolutionary",
+      "leverage"
+    ]
+  },
+  "vocabulary": {
+    "use_freely": [
+      "Telegram export",
+      "Notion",
+      "knowledge base",
+      "workflow",
+      "documentation",
+      "Codex skill"
+    ],
+    "always_explain": [
+      "preprocessing",
+      "redaction report",
+      "knowledge dataset"
+    ]
+  },
+  "voice_analysis": {
+    "sentence_structure": {
+      "avg_length": 16,
+      "variety": "moderate"
+    },
+    "communication_style": [
+      {
+        "trait": "clarity",
+        "percentage": 34
+      },
+      {
+        "trait": "practicality",
+        "percentage": 31
+      },
+      {
+        "trait": "confidence",
+        "percentage": 22
+      }
+    ],
+    "characteristic_expressions": [
+      "In practice",
+      "The real win"
+    ],
+    "sentence_starters": [
+      "Most teams",
+      "In practice",
+      "That matters because"
+    ],
+    "signature_vocabulary": [
+      "repeatable",
+      "reviewable",
+      "handoff",
+      "signal",
+      "noise"
+    ]
+  },
+  "article_limits": {
+    "max_words": 900
+  }
+}

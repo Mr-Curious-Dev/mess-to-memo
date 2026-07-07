@@ -1,0 +1,19 @@
+.DS_Store
+
+# Editor / IDE
+.idea/
+.vscode/
+*.iml
+
+# Local Codex / agent state
+.codex/
+.agents/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]

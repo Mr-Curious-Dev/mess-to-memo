@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "project": {
+    "name": "REPLACE_PROJECT_NAME",
+    "source_export": "REPLACE_EXPORT_FOLDER",
+    "processed_date": "YYYY-MM-DD"
+  },
+  "notion": {
+    "parent_page_id": null,
+    "parent_page_url": null,
+    "parent_title": "REPLACE_PROJECT_NAME Project Memory"
+  },
+  "pages": [
+    {
+      "title": "Backend",
+      "file": "Backend.md",
+      "category": "Backend",
+      "item_count": 0,
+      "notion_page_id": null,
+      "notion_page_url": null,
+      "status": "local_ready"
+    }
+  ]
+}
